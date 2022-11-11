@@ -72,9 +72,9 @@ Refer each steps
 - Choose the Spring Boot Application file (search for @SpringBootApplication)
 - Right Click on the file and Run as Java Application
 - You are all Set
-- For help : use our installation guide - https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
+- For help : use installation guide - https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
 
 ### Troubleshooting
-- Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
+- Refer TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
 
 
